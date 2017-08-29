@@ -16,8 +16,8 @@ class App extends Component {
           status: false
         },
         {
-          fname: "Angel",
-          lname: "Lopez",
+          fname: "Tabitha",
+          lname: "Chandler",
           phone: "111-222-3333",
           status: false
         },
